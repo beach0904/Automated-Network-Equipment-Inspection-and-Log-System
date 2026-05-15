@@ -18,3 +18,5 @@ main.py: 主執行程式，負責 AI 模擬邏輯與資料處理流程。
 source_data: 本專案的核心資料來源資料夾，存放用於分析的原始數據。
 
 網路維運分析報告_20260429.xlsx: 系統自動產出的最終視覺化分析結果。
+
+資料來源：https://www.kaggle.com/datasets/freshersstaff/it-system-performance-and-resource-metrics?resource=download
